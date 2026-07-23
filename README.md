@@ -192,7 +192,7 @@ Use `[` (the conjoiner key) when you want more control, or when you need to inse
 
 ### Repha
 
-The repha form (r-above) is typed with `]`.
+Repha is automatically handled by font, nevertheless for more control, the repha form (r-above) is typed with `]`.
 
 | Keys | Result | Equivalent |
 |------|--------|------------|
@@ -204,7 +204,7 @@ To prevent two consonants from forming a conjunct, insert a ZWNJ with `X` (Shift
 
 | Keys | Result |
 |------|--------|
-| `kXk` | 𑎒 + ZWNJ + 𑎒 — two separate ka's, not a conjunct |
+| `kAXk` | 𑎒𑏏 + ZWNJ + 𑎒 — two separate ka's, not a conjunct |
 
 ---
 
