@@ -2,6 +2,8 @@
 
 *Part of the [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) · fonts to display it: [Mallige_unicode](https://github.com/TantryTuluFonts/Mallige_unicode) · the ASCII standard it follows: [AccTantra](https://github.com/TantryTuluFonts/AccTantra)*
 
+**Download:** get the keyboard from the [Releases page](https://github.com/TantryTuluFonts/AccTantra_Unicode/releases/latest). You need [Keyman](https://keyman.com) 15.0 or later, and a Unicode font for the script such as [Mallige Unicode](https://github.com/TantryTuluFonts/Mallige_unicode/releases/latest).
+
 **Version:** 1.4.2 · **Engine:** Keyman 15.0+ · **Script:** Tulu-Tigalari (Unicode U+11380–U+113FF)
 
 ---
