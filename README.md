@@ -1,5 +1,7 @@
 # Tulu-Tigalari (AccTantra) Keyboard — Typing Guide
 
+*Part of the [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) · fonts to display it: [Mallige_unicode](https://github.com/PrahladTantry/Mallige_unicode) · the ASCII standard it follows: [AccTantra](https://github.com/PrahladTantry/AccTantra)*
+
 **Version:** 1.4.2 · **Engine:** Keyman 15.0+ · **Script:** Tulu-Tigalari (Unicode U+11380–U+113FF)
 
 ---
