@@ -1,6 +1,6 @@
 # Tulu-Tigalari (AccTantra) Keyboard — Typing Guide
 
-*Part of the [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) · fonts to display it: [Mallige_unicode](https://github.com/PrahladTantry/Mallige_unicode) · the ASCII standard it follows: [AccTantra](https://github.com/PrahladTantry/AccTantra)*
+*Part of the [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) · fonts to display it: [Mallige_unicode](https://github.com/TantryTuluFonts/Mallige_unicode) · the ASCII standard it follows: [AccTantra](https://github.com/TantryTuluFonts/AccTantra)*
 
 **Version:** 1.4.2 · **Engine:** Keyman 15.0+ · **Script:** Tulu-Tigalari (Unicode U+11380–U+113FF)
 
@@ -407,3 +407,11 @@ MATRAS (after consonant)     [  →  explicit conjoiner
   ko  = ko
   kO  = kō
 ```
+
+---
+
+## License
+
+The AccTantra Unicode keyboard is licensed under the **SIL Open Font License, Version 1.1**. You may use, study, modify and redistribute it freely, provided it is not sold on its own and derivative works stay under the same license. The full text is in [OFL.txt](OFL.txt), and a FAQ is at <https://openfontlicense.org>.
+
+Copyright (c) 2026, Prahlad Prasad Tantry.
